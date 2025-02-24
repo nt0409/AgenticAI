@@ -44,6 +44,8 @@ The script will prompt you to select the news type:
 
 Once selected, the script will scrape news, format it into a blog, and publish it using the credentials provided in the .env file.
 
+## ALSO, you will have to pull llama 3.1 from Ollama on your local machine 
+
 ## 📌 Example Output
 markdown
 # Today's Headlines: Mumbai Edition
