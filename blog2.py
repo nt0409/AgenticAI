@@ -166,9 +166,9 @@
 
 import requests
 
-wordpress_url = "https://newsagents8.wordpress.com"
-wordpress_user = "shashwat569800"
-wordpress_password = "black@12345600"
+wordpress_url = "ENTER YOUR URL"
+wordpress_user = "ENTER YOUR USERNAME"
+wordpress_password = "ENTER YOUR PASSWORD"
 
 post_data = {
     "title": "My Sample Blog Post",  # This is the post title
