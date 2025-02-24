@@ -68,5 +68,3 @@ The stock market saw a surge in...
 - *Issue: Publishing fails*  
   Verify your .env file credentials and publishing URL.
 
-## 📜 License
-This project is open-source under the *MIT License*. Feel free to contribute and improve it!
