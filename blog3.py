@@ -707,9 +707,9 @@ def generate_blog(config: BlogConfig) -> Tuple[str, bool]:
 if __name__ == "__main__":
     # Example configuration
     wp_config = WordPressConfig(
-        url="https://newsagents8.wordpress.com",
-        username="shashwat569800",
-        password="black@12345600"
+        url="ENTER YOUR URL",
+        username="ENTER YOUR USERNAME",
+        password="ENTER YOUR PASSWORD"
     )
     
     config = BlogConfig(
