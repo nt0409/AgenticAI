@@ -441,9 +441,9 @@ def process_all_folders(config: BlogConfig) -> Dict[str, List[Tuple[str, bool, s
 if __name__ == "__main__":
     # Example configuration
     wp_config = WordPressConfig(
-        url="https://newsagents8.wordpress.com",
-        username="shashwat569800",
-        password="black@12345600"
+        url=os.getenv("WP_URL"),
+        username=os.getenv("WP_USERNAME"),
+        password=os.getenv("WP_PASSWORD")
     )
     
     config = BlogConfig(

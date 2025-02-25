@@ -55,9 +55,9 @@ playwright install  # Install Playwright browsers
 ### 3️⃣ Configure Environment Variables
 Create a `.env` file in the root directory:
 ```env
-WP_URL="https://newsagents8.wordpress.com"
-WP_USERNAME="shashwat569800"
-WP_PASSWORD="black@12345600"
+WP_URL="your_url"
+WP_USERNAME="your_username"
+WP_PASSWORD="your_password"
 OLLAMA_MODEL="llama3"
 SEO_TARGET_SCORE=90
 ```
