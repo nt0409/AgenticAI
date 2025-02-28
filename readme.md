@@ -59,7 +59,6 @@ WP_URL="your_url"
 WP_USERNAME="your_username"
 WP_PASSWORD="your_password"
 OLLAMA_MODEL="llama3"
-SEO_TARGET_SCORE=90
 ```
 
 ### 4️⃣ Run the System 🚀
